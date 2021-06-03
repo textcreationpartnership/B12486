@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grampius gratulatius to his high and mightie monarch, King Charles. By William Douglas</title>
+            <author>Morton, William Douglas, Earl of, 1583 or 4-1648.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12486</idno><idno type="EEBO-CITATION">99856212</idno>
+  <idno type="VID">177074</idno>
+  <idno type="EEBO-PROQUEST">2264223798</idno>
+  <idno type="STC">STC 7076</idno>
+  <idno type="STC">ESTC S121021</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856212e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 987:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Grampius gratulatius to his high and mightie monarch, King Charles. By William Douglas</title>
+                  <author>Morton, William Douglas, Earl of, 1583 or 4-1648.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Heirs of A. Har,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1633]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Usually found as part 3 of STC 7486: Eisodia musarum Edinensium in Caroli regis, Musarum Tutani, ingressu in Scotiam.</note>
+                  <note>Also appears as part 3 of STC 7486 on UMI microfilm reel 782.</note>
+                  <note>Signatures: pi4, *4.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177074:1"/>
+            <p>GRAMPIVS GRATVLATION To his high and mightie MONARCH, <hi>KING</hi> CHARLES. <hi>By</hi> WILLIAM DOUGLAS.</p>
+            <q>
+               <l>Vnica vicinis toties pulsata procellis,</l>
+               <l>Externi immunis domini.</l>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177074:2"/>
+            <head>To his sacred Majestie.</head>
+            <lg>
+               <l>THis hom-bred strain (great PRINCE) those lowly layes,</l>
+               <l>Which from affections deepe abysm doth spring,</l>
+               <l>The aged <hi>Grampius</hi> to thy Throne would bring:</l>
+               <l>But conscious of his rash attempt hee stayes.</l>
+               <l>Hee seekes a shelter for his weake assayes;</l>
+               <l>And hee, who Monarchs tragick lyves did sing,</l>
+               <l>Makes this unworthie worthie of a King:</l>
+               <l>And crownes old <hi>Grampius</hi> browes with <hi>Ochell</hi> bayes,</l>
+               <l>Who shrouds himselfe 'neth <hi>Alexanders</hi> shield,</l>
+               <l>Knowing this mite may wrong thy praises shrine,</l>
+               <l>This smoake thy vertues golden altar staine:</l>
+               <l>Yet thus to climbe <hi>Parnassus</hi> hee did yeelde,</l>
+               <l>Since such a rare <hi>Moecenas</hi> was commander,</l>
+               <l>Who both an <hi>Homer</hi> is, and <hi>Alexander.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177074:2"/>
+            <head>GRAMPIVS <hi>GRATVLATION.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>WO hundreth lusters twise are all out-driven</l>
+               <l>Turn'd in the ever-rolling wheeles of Heaven,</l>
+               <l>Since to my never conqu'red di<g ref="char:EOLhyphen"/>ademe,</l>
+               <l>First sprang the roote of one con<g ref="char:EOLhyphen"/>tinuate steme.</l>
+               <l>Though long before that tyme <hi>Gathelus</hi> race</l>
+               <l>Possest myne Islands, and did court my face.</l>
+               <l>Both <hi>Romans, Britons, Saxons, Picts</hi> and <hi>Danes,</hi>
+               </l>
+               <l>
+                  <hi>Gothes, Vandals, Normans</hi> forc'd their anxious braines</l>
+               <l>By martiall meanes to undermine my state,</l>
+               <l>And train'd their troupes for to oppose my fate:</l>
+               <l>Yet maugre all, my trophees ever stood,</l>
+               <l>I dyed my streaming ensigns in their blood:</l>
+               <l>With <hi>Picts</hi> faire lands my limits I augmented,</l>
+               <l>And made <hi>Romes</hi> Monarchs with their owne contented:</l>
+               <pb facs="tcp:177074:3"/>
+               <l>Whose all down-trampling strength repeld by none,</l>
+               <l>From frozen Thule to the torride Zon,</l>
+               <l>I did ranverse, and only I the spate</l>
+               <l>Of their victorious standards did rebeate.</l>
+               <l>
+                  <hi>Vnstein'd as yet a Maiden crowne I carrie,</hi>
+               </l>
+               <l>
+                  <hi>Such is my lote in matters militarie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now behold some change, some enterprise:</l>
+               <l>Goe to, goe to brave martiall <hi>Scots arise,</hi>
+               </l>
+               <l>Mee think incroching nigh I doe espie</l>
+               <l>Like glit'ring meteors reilling through the skie,</l>
+               <l>A gorgious people, marching in my sight,</l>
+               <l>Whose eyes, with wonder ravish'd, doe delight</l>
+               <l>To gaze upon some golden man, whom Iove</l>
+               <l>Hath sent like Mercure to declare his love.</l>
+               <l>So came that valiant Prince, when hee did bring</l>
+               <l>From <hi>Poiteirs</hi> bloodie field the captive King.</l>
+               <l>So that brave King from Agincourts great fight,</l>
+               <l>And so that royall Sheepeherd when in sight</l>
+               <l>Hee brought the Gyants head. The people sound,</l>
+               <l>With loude applauses deaving Heaven and ground:</l>
+               <l>Hither they tend, amidst my Courts they throng,</l>
+               <l>And crowne great Caesar, Caesar, is their song.</l>
+            </lg>
+            <lg>
+               <l>What may this meane? Shall strangers so molest</l>
+               <l>My state, and in my Throne themselves invest?</l>
+               <l>Did ever I with purpure robe adorn</l>
+               <l>A man, who was not in my bowels born?</l>
+               <l>Or did I ever yet install a King,</l>
+               <l>Who from the line of <hi>Fergus</hi> did not spring?</l>
+               <l>Shall my unconquered Caledonian crown</l>
+               <l>Lose now her ancient glorie and renown?</l>
+            </lg>
+            <pb facs="tcp:177074:3"/>
+            <lg>
+               <l>No, no, where bee these mynds, that strength, that store</l>
+               <l>Of stout Herculean hearts wee heare of yore?</l>
+               <l>Sound trumpets shrill, beate boysteous drums alarms,</l>
+               <l>Set fires on high, and call for armes, armes, armes.</l>
+            </lg>
+            <lg>
+               <l>But stay, perhaps my dim and aged eye</l>
+               <l>Not rightly prying puts my wits awry:</l>
+               <l>Is this not great Apollo comming North,</l>
+               <l>To view his Delos on the Douns of Forth?</l>
+               <l>Is this not CHARLES, the son of sacred IAMES,</l>
+               <l>To whom not Tyber, Rhean, nor Seyn, nor Thames,</l>
+               <l>But Forth first homage made when hee was born,</l>
+               <l>As Gange doth to the babie sun at morn?</l>
+               <l>
+                  <hi>Sing joyfull paeans while yee Skies doe ring,</hi>
+               </l>
+               <l>
+                  <hi>For this is</hi> CHARLES, <hi>great</hi> CHARLES <hi>our native King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>See how this vawlted universall frame</l>
+               <l>Congratulats with all within the same:</l>
+               <l>Heavens, earth, and aire applaude in bright array,</l>
+               <l>And Neptune seames to solemnize this day.</l>
+               <l>Great Phoebus northward doth his Chariote role,</l>
+               <l>To bring brave CHARLES unto the artactick pole.</l>
+               <l>Ioves wife and sister doth her hall prepaire,</l>
+               <l>And him invites with pure and temperate aire.</l>
+               <l>Fierce Boreas doth his boystrous blasts sequester,</l>
+               <l>And drownes in deepes his blustring tents tapester.</l>
+               <l>Flora in garments white, rid, greene and blew,</l>
+               <l>Doth scorn the parti-colord Iris hew.</l>
+               <l>The crocean flower spreads with more ample grace,</l>
+               <l>Because shee finds two suns imbeame her face:</l>
+               <l>And faire Narcissus doth his head advance,</l>
+               <l>To see this Isles first CHARLES, tenth <hi>Charles</hi> of France;</l>
+               <pb facs="tcp:177074:4"/>
+               <l>And gazeth on his shade in <hi>English</hi> shield,</l>
+               <l>If it may contrare metamorphose yeelde.</l>
+               <l>Amidst our meads goe tripping on the ground</l>
+               <l>The Nymphs, and milk-white Naids in a round:</l>
+               <l>With light-foote Dryads, Faunes a measure keeping,</l>
+               <l>And Phaethons sisters leave their amber weeping:</l>
+               <l>The Thracian Minstrell strains his warbling strings,</l>
+               <l>And in deepe descant Philomela sings.</l>
+               <l>Peneian Daphne ryseth by the roote</l>
+               <l>At the sweete quiv'ring crotchets of the Lute:</l>
+               <l>Immured Niobe new senses takes,</l>
+               <l>Heares this melodious song, and motion makes.</l>
+            </lg>
+            <lg>
+               <l>The Hunties goddesse sports her in the woods,</l>
+               <l>And leaves Gargaphia for the Scotish floodes,</l>
+               <l>Shee comes all graithed in her gameing geare,</l>
+               <l>With brave King CHARLES to rouse the fallow deare.</l>
+               <l>Amidst which traine cloth'd in vermilion die</l>
+               <l>Set on a charriot of the azure skie</l>
+               <l>Ioves brain-bred daughter holds a graver trace:</l>
+               <l>Because shee mindes first to salute his grace:</l>
+               <l>Who comes for to admire his judgements Throne,</l>
+               <l>As Shebas Queene came to King Salomon:</l>
+               <l>
+                  <hi>All those with one applauding voice do sing,</hi>
+               </l>
+               <l>
+                  <hi>Haile</hi> CHARLES <hi>the great, haile Britaines bravest King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But O behold! an other sight I see,</l>
+               <l>Which with amazing joy inchants mine eye:</l>
+               <l>There is a mount, <hi>Parnassus</hi> hill by name,</l>
+               <l>On whose two tops of universall fame</l>
+               <l>Did harboure once the sacred sisters nine,</l>
+               <l>And to harmonious layes their quils combine:</l>
+               <pb facs="tcp:177074:4"/>
+               <l>But now behind Arthurus choiser mountaine</l>
+               <l>They have found foorth a more delicious fountaine,</l>
+               <l>They'l taste no more weake Heliconian water,</l>
+               <l>But try if Spaine or Hungarie bee better:</l>
+               <l>From high Edina do they beate the skyes,</l>
+               <l>With winged praises, and applauding cryes;</l>
+               <l>Framing a triple roll of rare renowne,</l>
+               <l>To grace the guerdon of a triple crowne.</l>
+               <l>
+                  <hi>To whose sweete layes resounding Echoes ring,</hi>
+               </l>
+               <l>
+                  <hi>Haile</hi> CHARLES <hi>the great, haile Britaines bravest King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now since the Heavens, the Earth, the Aire, and Sea,</l>
+               <l>And Gods, and Nymphs, and Muses doe agree,</l>
+               <l>O peerelesse Prince! thy praises to proclame,</l>
+               <l>And parallell thee with the arch of fame,</l>
+               <l>Shall not thy Grampian ground, thy brasen wall,</l>
+               <l>My native sons, thy valiant people all,</l>
+               <l>Shall they not sing? Shall they not shoute for joy,</l>
+               <l>When they doe Caesar to his Courts convoy?</l>
+               <l>Shall not the clamour of their clang'ring cry</l>
+               <l>Hatch thousand echoes in the emptie skie?</l>
+               <l>Shall they not triumph in receaving thee,</l>
+               <l>And blesse the day of thy nativitie?</l>
+            </lg>
+            <lg>
+               <l>Scarce was thou swadled, and did touch the tate,</l>
+               <l>When Fortune caveld with the threefold Fate:</l>
+               <l>For shee supposde that Prince should have the crowne,</l>
+               <l>Who now inthrond is 'bove both Sun and Moone.</l>
+               <l>If you had eyes (said Clotho) you should know</l>
+               <l>Our fatall distaffe doth not presage so;</l>
+               <l>On Rome two Caesars can not well conteene,</l>
+               <l>And never Phoenix hath a Phoenix seene.</l>
+               <pb facs="tcp:177074:5"/>
+               <l>The elder shall the greater world inherite,</l>
+               <l>The younger doth this lesser all demerite.</l>
+               <l>To whom said Fortune. If your fatall power</l>
+               <l>Will force that budding rose fall in his flower;</l>
+               <l>Your horride edicts shall not CHARLES appall,</l>
+               <l>Till I those radiant crownes on him let fall.</l>
+            </lg>
+            <lg>
+               <l>When lusters five from hence the Sphears shall turn,</l>
+               <l>And IAMES as Iulius in the Heavens shall burn;</l>
+               <l>The Lyon red, and Lybbards three shall bee,</l>
+               <l>Bold badges of his Britaine Monarchie,</l>
+               <l>Narcissus beautie shall allure his eyes,</l>
+               <l>And the sweete sounding harp his eares shall please,</l>
+               <l>And by rare vertue CHARLES shall surely gaine</l>
+               <l>A greater fame than ever <hi>Charle le maine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With which the fates incensed, did reply.</l>
+               <l>By no blind chance, but by our just decree,</l>
+               <l>To crownes and scepters men can bee advanced,</l>
+               <l>Although some ancient Stoicks halfe intranced,</l>
+               <l>Preferment, riches, empires, hight of blood,</l>
+               <l>To bee <hi>fortunae bona</hi> did conclude:</l>
+               <l>For by the sequell of this short narration,</l>
+               <l>Wee prove these kingdomes are of our donation.</l>
+            </lg>
+            <lg>
+               <l>There is a Marble stone, which beares our name,</l>
+               <l>Of ancient note, and never dying fame:</l>
+               <l>In tyme of Moses in proude Pharoes land,</l>
+               <l>From worlds first framing hid till then did stand:</l>
+               <l>This stone great Gathell through the deepes did carie,</l>
+               <l>So soone as King-bred Scota hee did marie;</l>
+               <l>And on that shore hee first did strike his saile,</l>
+               <l>Which yet from him intitled port Gathel.</l>
+               <pb facs="tcp:177074:5"/>
+               <l>Now with this destinie that stone wee grac'd,</l>
+               <l>That <hi>Scots</hi> should ring where ev'r it should bee plac'd:</l>
+               <l>So <hi>Hyber Scota</hi>' er elder son did reigne,</l>
+               <l>And was enstald of <hi>Lusitania</hi> King.</l>
+               <l>But heere the <hi>Scots</hi> did so increase in <hi>Spaine,</hi>
+               </l>
+               <l>
+                  <hi>Gallicia</hi> could them all not well containe.</l>
+            </lg>
+            <lg>
+               <l>A fruitfull Island in the Ocean sea,</l>
+               <l>Twixt <hi>Albion</hi> and <hi>Iberia</hi> doth ly:</l>
+               <l>Heere did Hymecus with a mightie band</l>
+               <l>Of best appointed Scottish Souldiers land:</l>
+               <l>Where to immortalize great <hi>Hybers</hi> fame,</l>
+               <l>Hee calde the land <hi>Hybernia</hi> from his name.</l>
+               <l>But while successours to <hi>Hymaecus</hi> faile</l>
+               <l>And furious foes their fronteirs doe assaile,</l>
+               <l>Brave <hi>Symon Brecus</hi> from <hi>Iberia</hi> brings</l>
+               <l>This fatall chaire to destinate their reignes:</l>
+               <l>Yet did their number so their bounds exceede,</l>
+               <l>To reinlarge their limits they have neede.</l>
+               <l>They hoise their sailes, and first no further strive,</l>
+               <l>But on North <hi>Albions AEbuds</hi> did arrive:</l>
+               <l>Till from <hi>Ierna</hi> came that man divine,</l>
+               <l>Of hundreth nyne Kings who began the line:</l>
+               <l>At whose approach the <hi>Britones</hi> set on fire,</l>
+               <l>Doe gainst him and his twofold <hi>Scots</hi> conspire:</l>
+               <l>(For his <hi>Ierni Scoti</hi> thousands ten</l>
+               <l>Ioyn'd with their brethren the <hi>Scot-albin</hi> men)</l>
+               <l>So to repell them from the continent;</l>
+               <l>King <hi>Coilus</hi> hath his <hi>Briton</hi> forces bent:</l>
+               <l>And at that riyer (called <hi>Dune</hi>) arrayes</l>
+               <l>His men in battell order, and displayes</l>
+               <pb facs="tcp:177074:6"/>
+               <l>His colours; yet those <hi>Britons</hi> gote the foile,</l>
+               <l>And <hi>Coilus</hi> death did name the countrie <hi>Kyle.</hi>
+               </l>
+               <l>Then valiant <hi>Fergus</hi> plac'd the fatall chire</l>
+               <l>In <hi>Argathile,</hi> first seate of <hi>Scots</hi> impire;</l>
+               <l>Where hee did reigne as royall <hi>Scots</hi> commander,</l>
+               <l>In tyme of <hi>Macedonian Alexander:</hi>
+               </l>
+               <l>Three hundreth thirtie yeares which computation</l>
+               <l>Makes <hi>Scotlands</hi> crown preceede CHRISTS incarnation.</l>
+               <l>In <hi>Berigon</hi> their Kings were first invested,</l>
+               <l>And syne in <hi>Scone</hi> when <hi>Berigon</hi> detasted,</l>
+               <l>The Picts were foild, and banishd from those lands,</l>
+               <l>By second <hi>Kenneth,</hi> and his martiall bands.</l>
+               <l>And then to <hi>Scone</hi> this Marble charie they bring,</l>
+               <l>Wherein they us'd for to install their King:</l>
+               <l>On which in old charecters now unkend,</l>
+               <l>By our immortall finger this was pen'd,</l>
+               <l>
+                  <hi>Ni fallat fatum, Scoti quocunque locatum</hi>
+               </l>
+               <l>
+                  <hi>Invenient lapidem regnare tenentur ibidem.</hi>
+               </l>
+               <l>But loe first <hi>Edward</hi> mynding to delude</l>
+               <l>The fates, did <hi>Scotland</hi> of this stone denude:</l>
+               <l>Thinking that spoile which hence hee did convoy,</l>
+               <l>Had beene <hi>Palladium, Scotland</hi> had beene <hi>Troy:</hi>
+               </l>
+               <l>But where men cute the passage fates to stay,</l>
+               <l>Wee make that same the course, that same the way.</l>
+               <l>
+                  <hi>Englands</hi> first <hi>Edward</hi> did transport this stone,</l>
+               <l>
+                  <hi>Scotlands</hi> first CHARLES shall sit on <hi>Englands</hi> Throne:</l>
+            </lg>
+            <lg>
+               <l>Those crownes our edicts voide of all mutation</l>
+               <l>Doe cause, not your inconstant dispensation.</l>
+               <l>This said, the fatall sisters made an end,</l>
+               <l>And chargd'e blind Fortune never to attend</l>
+               <pb facs="tcp:177074:6"/>
+               <l>With her State-turning wheele upon that Crowne,</l>
+               <l>Which must hold equall date with Sun and Moone.</l>
+               <l>O mightie Monarch! now the day shall bee,</l>
+               <l>Which aged <hi>Grampius</hi> often wisht to see,</l>
+               <l>That such a Prince sprung from my loynes were knowne,</l>
+               <l>Who last of seventeene Crownes should take his owne;</l>
+               <l>Even thou the last of many <hi>Kings</hi> renown'd,</l>
+               <l>Yet first King ever heere was to bee crown'd.</l>
+               <l>Even thou the soveraigne whom my sons obey,</l>
+               <l>Love, serve, and feare, and fellow will alway:</l>
+               <l>Even thou the only King that lives in peace,</l>
+               <l>The only <hi>Iason</hi> of this golden fleece;</l>
+               <l>Thou sits and smyles to see the world in steere,</l>
+               <l>And when thou lists thou puts them all in feare:</l>
+               <l>Thy Sea-gods swimme, and make old <hi>Proteus</hi> wonder,</l>
+               <l>To see such winged wooden forts furth thunder.</l>
+               <l>To thy two worlds west Ocean is a wall,</l>
+               <l>And <hi>Mars</hi> doth marshell the indwellers all:</l>
+               <l>Uncomprehended great triunall Iove</l>
+               <l>Combines thy bounds in grace, faith, peace, and love:</l>
+               <l>Hee makes my sons sound foorth such caroling,</l>
+               <l>
+                  <hi>Haile</hi> CHARLES <hi>the great, haile Britaines bravest King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let painted <hi>Sean</hi> vaunt of her flowrie Throne,</l>
+               <l>And of her raine-bow coloured feeldes, whereon</l>
+               <l>Soft breathing musked Zephyrs slide amaine,</l>
+               <l>And curle the amorous verdure of each plaine:</l>
+               <l>Yet to thy Lyon shee did often mone,</l>
+               <l>When thy three Libards trampled on her Throne:</l>
+               <l>So though her Tempe shads like Eden shine,</l>
+               <l>Dethron'd shee hath beene, and inthron'd by thine.</l>
+            </lg>
+            <pb facs="tcp:177074:7"/>
+            <lg>
+               <l>Let <hi>China</hi> of innumerable townes,</l>
+               <l>
+                  <hi>Constantinoples</hi> orientall crownes</l>
+               <l>Brag of their golden mountaines, spatious fields,</l>
+               <l>And of a shore, which pearles and rubies yeelds;</l>
+               <l>Yet none of those great Monarchs Heavens doe tender,</l>
+               <l>To beare the glorious name of Faiths defender.</l>
+            </lg>
+            <lg>
+               <l>Let <hi>Spaine</hi> boast of her earth-imbracing crowne,</l>
+               <l>On whose dominions Sun goeth never downe:</l>
+               <l>Yet blood and rapine her empire did reare,</l>
+               <l>VVhich stands by rapine, blood, constraint, and feare.</l>
+               <l>But thou 'mongst Kings, most like the King of Kings,</l>
+               <l>Ov'r an unconquered virgine Kingdome rings;</l>
+               <l>And thy right hand doth greatest scepters move,</l>
+               <l>Not gote by bloodie treacherie, but by love.</l>
+               <l>Thy selfe a Prince not of tyrannick mynd,</l>
+               <l>But to thy subjects loving myld and kynd:</l>
+               <l>VVho never yet with blood hast staind thy Throne;</l>
+               <l>But mercie sits with open wings thereon.:</l>
+               <l>Love all-imbracing, mercie sparing rods,</l>
+               <l>In which two chiefly men bee like the gods.</l>
+               <l>O then great Prince come harboure in myne heart,</l>
+               <l>And never hence from thine old <hi>Grampius</hi> part.</l>
+               <l>Mine head <hi>Edina</hi> shall thine head adorn,</l>
+               <l>VVith diademe thy fathers wore beforn,</l>
+               <l>An hundreth Kings, and eight that crowne defended,</l>
+               <l>VVhich unto thee unconquer'd hath descended.</l>
+               <l>In this thine ancient citie thou shalt see</l>
+               <l>The truest gemme of pure divinitie.</l>
+               <l>The ornate senate orderly conveen'd,</l>
+               <l>With <hi>Tullies</hi> moe than ever <hi>Rome</hi> contein'd.</l>
+               <pb facs="tcp:177074:7"/>
+               <l>The fasces furnisht with civilitie,</l>
+               <l>With <hi>Minos</hi> justice, <hi>Catoes</hi> gravitie:</l>
+               <l>The gallants, whose brave musters may declare,</l>
+               <l>They bee the children of the God of warre.</l>
+               <l>Within the circuit of an houre they'l show</l>
+               <l>Ten thousand warlick citicens and moe,</l>
+               <l>All reir'd in shyning helmes, and glancing shields,</l>
+               <l>Far pushing picks the bulwark of the fields,</l>
+               <l>Skie-threatning shot, the child of death last borne,</l>
+               <l>Which angrie <hi>Ioves</hi> fire thund'ring claps doth scorn,</l>
+               <l>All of their stout ancestors martiall stamp,</l>
+               <l>Might quench the pride of the emperiall campe:</l>
+               <l>
+                  <hi>Who to thy Throne those salutations bring,</hi>
+               </l>
+               <l>
+                  <hi>Haile</hi> CHARLES <hi>the great, haile Britaines bravest King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though <hi>Isis</hi> glorie may thine heart entise,</l>
+               <l>Her greatnesse charme thy will, enchant thine eyes,</l>
+               <l>That thine owne citie thou no more adorn,</l>
+               <l>Nor view those ancient bownes where thou was born:</l>
+               <l>Yet what so-ev'r allure thee, think upon</l>
+               <l>Thine old <hi>Edina,</hi> and thy native Throne,</l>
+               <l>Who though thy chaire of State to <hi>Inde</hi> remove,</l>
+               <l>Should plaine thine absence, but not change her love.</l>
+            </lg>
+            <lg>
+               <l>Wouldst thou heere stay, and spend the pleasant houres</l>
+               <l>Beside thy predecessours bones and boures;</l>
+               <l>Then should I sing, then should I often pray,</l>
+               <l>Such golden tyme may never turn away.</l>
+               <l>May never <hi>AEthon</hi> from the Orient <hi>Inde</hi>
+               </l>
+               <l>Repast or 'pose in Western <hi>Thetis</hi> find.</l>
+               <l>May nev'r the jeate-black courteins of the night</l>
+               <l>Bee drawne from <hi>Antipods</hi> to cloude our light?</l>
+               <pb facs="tcp:177074:8"/>
+               <l>May never <hi>Phoebus</hi> to the <hi>Buck</hi> declyne,</l>
+               <l>But ay twixt <hi>Cancer</hi> and <hi>Astraea</hi> shine?</l>
+               <l>May never after loving CHARLES disdaine</l>
+               <l>To leave <hi>Corona</hi> for the <hi>Charle-la-waine.</hi>
+               </l>
+               <l>Pitie I pray our <hi>Hyperborean</hi> frost,</l>
+               <l>Our long long shadow fra thou leave our cost.</l>
+               <l>Pitie those Orphans who begin to grone,</l>
+               <l>And doe alreadie thy departure mone.</l>
+               <l>In sable night <hi>Apolloes</hi> love may lowre,</l>
+               <l>Yet lookes to morrow like a fragrant flowre.</l>
+               <l>But ah! old <hi>Grampius</hi> never more will spread,</l>
+               <l>If once againe hee 'gin to droupe his head:</l>
+               <l>My hoarie haires shall bee intomb'd with woe,</l>
+               <l>If <hi>Iacobs Benjamin</hi> away will goe.</l>
+            </lg>
+            <lg>
+               <l>But if the furious fates will force such paine,</l>
+               <l>And <hi>Phoebus</hi> must in <hi>Thetis</hi> dive againe,</l>
+               <l>Yet leave some prime-star of thy love for light,</l>
+               <l>While thine Aurore againe expell my night,</l>
+               <l>Till when, and now, and in all comming ages,</l>
+               <l>So long as <hi>Nereus</hi> on thy limits rages,</l>
+               <l>So long as <hi>Vesper</hi> doth the day divide,</l>
+               <l>Or round about the <hi>Pole Bootes</hi> slide,</l>
+               <l>With thee and thine my constancie and faith</l>
+               <l>Shall bide, as blood is ever joyn'd with breath.</l>
+               <l>And with my vow this lasting wish coheres,</l>
+               <l>Thine age may parallell old <hi>Grampius</hi> yeares.</l>
+            </lg>
+         </div>
+         <div type="acrostic_poem">
+            <pb facs="tcp:177074:8"/>
+            <head>TRITACROSTICHON.</head>
+            <lg>
+               <l>COme, and behold, King best in worlds vast Frame,</l>
+               <l>How SCOTLAND I, In thee ENGLAND Rejoises:</l>
+               <l>A Land as yet Nev'r conqu'red how I Am,</l>
+               <l>Round 'bout earths ball Great herald fame foorth Noises.</l>
+               <l>Lyke as true Love O KING thy crown doth Cover,</l>
+               <l>Even so doth Love Farre farre thy march Extend,</l>
+               <l>So ENGLAND, and Brode bounds of Britain Over</l>
+               <l>Stands thy rich Throne Reird, w<seg rend="sup">ch</seg> true love doth Fend.</l>
+               <l>Then let this Isle In after tymes Intend</l>
+               <l>Of ruin'd jarres Trophees of peace to Reare,</l>
+               <l>Whereby the World Amidst their wars may Lend</l>
+               <l>A little blink New BRITAINE to Admire;</l>
+               <l>Remembring that Now's one King where twise Nine</l>
+               <l>Their bloodie broiles Exerc'd. O change Divine!</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>GRAMPIVS REGRATE AT the departure of his Majestie.</head>
+            <lg>
+               <l>AH Reader! pause a while, and with the eyes of pittie</l>
+               <l>Behold how soone my songs of joy turn in a tragick dittie:</l>
+               <l>Heere I lament the lose of what I newly gain'd,</l>
+               <l>The presence of my loving Prince which hath not long remain'd.</l>
+               <l>Hei mee why have I beene thus paradiz'd in joy?</l>
+               <l>To bee so soone plung'd in the maine deludge of all annoy.</l>
+               <l>Not so the posting spheres out-drive the flowrie spring,</l>
+               <l>But by a slow serpenting pace the gray hair'd winter bring.</l>
+               <l>But scarce had I well view'd whom long I wish'd to see,</l>
+               <l>When like a lightning hee did passe in twinckling of an eye.</l>
+               <pb facs="tcp:177074:9"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177074:9"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177074:10"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177074:10"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177074:11"/>
+               <l>So doth a poore man dreame hee fangs the <hi>Indian</hi> treasure,</l>
+               <l>But when hee doth awake, his dreame is past, so is his pleasure:</l>
+               <l>So to the love sick Nymph, her dreames of love bring harmes,</l>
+               <l>When shee awakes, and finds him gone lay dalying in her armes.</l>
+               <l>If this my soone spent joy may not be cald a dreame,</l>
+               <l>Yet of a true realitie 'tis but a glance or gleame.</l>
+               <l>The drudging clown by use can swallow all annoyes,</l>
+               <l>Not capable of divine mirth or of heroick joyes.</l>
+               <l>But they who on small glance of <hi>Tabors</hi> joyes did gaine,</l>
+               <l>Wish'd that they never might descend into the noysome plaine:</l>
+               <l>Had I the nectar of his presence never tasted,</l>
+               <l>I could haue well the used gall of absence now digested:</l>
+               <l>But I of late who triumph'd on Suns flamming chaire,</l>
+               <l>Am cast down in Eridanus; cold water quenches fire.</l>
+               <l>Yet what? Not mee alone this palenesse doth appall,</l>
+               <l>But even a change is in the face of all within this All:</l>
+               <l>The Heavens begin to weepe, the imber months appeare,</l>
+               <l>The very senslesse things themselves do change their wonted cheere:</l>
+               <l>The Sea doth rore amaine, the Sun doth lose his heate,</l>
+               <l>The pleasant groves &amp; arbors shake their pompe among their feete.</l>
+               <l>And who within short tyme list to behold my face,</l>
+               <l>Shall see a snow-whytwinding sheete mee round about imbrace.</l>
+            </lg>
+            <lg>
+               <l>WHilst I did view those courts of late minacd the skie,</l>
+               <l>Which now like silent Hermit halls alone deserted ly,</l>
+               <l>I did my sad complaint this elegie begin,</l>
+               <l>But loe mine eyes did drown in teares, sighs, boistred so within,</l>
+               <l>That from my trembling hand the quivering pen did fall</l>
+               <l>At my Parnassus <hi>Ochells</hi> feete where all the muses dwell:</l>
+               <l>Whair <hi>Helicon</hi> is turnd in <hi>Dovens</hi> lively spring,</l>
+               <l>And where Apollo with more skill this dittie may foorth bring.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177074:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
